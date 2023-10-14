@@ -31,4 +31,8 @@ This is a Project to survey the performance of different CNN architectures on se
 
 ![](Att_Unet_img2.png)
 
-####
+### 1.3 ResUNet
+
+#### 1.3.1 Architecture
+
+
