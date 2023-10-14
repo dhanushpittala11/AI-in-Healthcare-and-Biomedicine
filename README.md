@@ -35,4 +35,12 @@ This is a Project to survey the performance of different CNN architectures on se
 
 #### 1.3.1 Architecture
 
+![](Convolutional_block_RESUNET.png)
+
+Schematic of the Residual Block.
+
+
+#### 1.3.2 Segmentation Results
+
+
 
