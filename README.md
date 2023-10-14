@@ -45,6 +45,10 @@ Residual UNET
 
 #### 1.3.2 Segmentation Results
 
+![](ResUnet_img1.png)
+
+![](ResUnet_img2.png)
+
 ## 2 Loss Function
 
 Dice loss and Cross entropy loss have been used for the loss. **Loss = DiceLoss+ Binary CrossEntropy Loss**
@@ -56,5 +60,7 @@ Dice loss and Cross entropy loss have been used for the loss. **Loss = DiceLoss+
   
  ![](BCE_loss2.png)
 
+**For training the model, I implemented K-fold cross validation.**
 
+**Exploring several other architectures for improving the segmentation of breast tumors. Will update soon the improved segmantations...**
 
