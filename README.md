@@ -19,10 +19,11 @@ This is a Project to survey the performance of different CNN architectures on se
 
 #### 1.2.1 Architecture
 
-![Block Diagram of the Attention UNet Architecture](Attention_UNET.png)
+![](Attention_UNET.png)
+          Block Diagram of the Attention UNet Architecture
 
-
-![Schematic of the Attention Gate](Attention_Gate.png)
+![](Attention_Gate.png)
+         Schematic of the Attention Gate
 
 #### 1.2.2 Segmentation Results
 
