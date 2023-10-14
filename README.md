@@ -1,6 +1,6 @@
 # Breast Tumor Segmentation
 
-This is a Project to survey the performance of different CNN architectures on segmenting breast tumors. All the information about the Dataset can be found [here](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset). 
+This is a Project to survey the performance of different CNN architectures on segmenting breast tumors. All the information about the Dataset can be found [here](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset). The code for the project can be found [here](https://github.com/dhanushpittala11/AI-in-Healthcare-and-Biomedicine/blob/main/breastcancerdetection_nb.ipynb).
 
 ## 1. Architectures 
 
