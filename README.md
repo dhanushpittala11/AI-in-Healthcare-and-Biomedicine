@@ -27,4 +27,8 @@ This is a Project to survey the performance of different CNN architectures on se
 
 #### 1.2.2 Segmentation Results
 
+![](Att_Unet_img1.png)
 
+![](Att_Unet_img2.png)
+
+####
