@@ -45,5 +45,7 @@ Residual UNET
 
 #### 1.3.2 Segmentation Results
 
+## 2 Loss Function
+
 
 
