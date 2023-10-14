@@ -47,5 +47,11 @@ Residual UNET
 
 ## 2 Loss Function
 
+Dice loss and Cross entropy loss have been used for the loss. **Loss = DiceLoss+ Binary CrossEntropy Loss**
+
+![](Dice_Loss.png)
+
+
+
 
 
