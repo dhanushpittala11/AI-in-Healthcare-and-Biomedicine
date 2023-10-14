@@ -39,6 +39,9 @@ This is a Project to survey the performance of different CNN architectures on se
 
 Schematic of the Residual Block.
 
+![](ResUNET_original_architecture.png)
+
+Residual UNET
 
 #### 1.3.2 Segmentation Results
 
