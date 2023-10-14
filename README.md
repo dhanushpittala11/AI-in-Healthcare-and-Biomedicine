@@ -12,6 +12,7 @@ This is a Project to survey the performance of different CNN architectures on se
 #### 1.1.2 Segmentation Results
 
 ![](Unet_img1.png)
+
 ![](Unet_img2.png)
 
 ### 1.2 Attention UNet
@@ -19,6 +20,7 @@ This is a Project to survey the performance of different CNN architectures on se
 #### 1.2.1 Architecture
 
 ![Block Diagram of the Attention UNet Architecture](Attention_UNET.png)
+
 
 ![Schematic of the Attention Gate](Attention_Gate.png)
 
