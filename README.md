@@ -49,9 +49,12 @@ Residual UNET
 
 Dice loss and Cross entropy loss have been used for the loss. **Loss = DiceLoss+ Binary CrossEntropy Loss**
 
-![](Dice_Loss.png)
-
-
+* **Dice Loss**
+ ![](Dice_Loss.png)
+ 
+*  **BCE Loss**
+  
+ ![](BCE_loss2.png)
 
 
 
