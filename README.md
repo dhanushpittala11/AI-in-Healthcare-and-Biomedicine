@@ -6,3 +6,7 @@ This is a Project to survey the performance of different CNN architectures on se
 
 ### 1.1 UNet
 
+#### 1.1.1 Architecture
+![UNet Architecture](UNET_ARCHITECTURE.png)
+
+
