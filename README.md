@@ -9,4 +9,13 @@ This is a Project to survey the performance of different CNN architectures on se
 #### 1.1.1 Architecture
 ![UNet Architecture](UNET_ARCHITECTURE.png)
 
+#### 1.1.2 Segmentation Results
+
+![](Unet_img1.png)
+![](Unet_img2.png)
+
+### 1.2 Attention UNet
+
+#### 1.2.1 Architecture
+
 
